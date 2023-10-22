@@ -1,0 +1,32 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: #0077B6;
+        }
+
+        #kanjiDisplay {
+            font-size: 24px;
+            margin: 20px;
+        }
+
+        #generateButton {
+            padding: 10px 20px;
+            background-color: #00A1D7;
+            color: #FFF;
+            border: none;
+            cursor: pointer;
+        }
+        #update-List {
+            text-align: left;
+            padding: 20px;
+        }
+        #ateji-List {
+            text-align: center;
+            top: 0%;
+        
+            
+        }
